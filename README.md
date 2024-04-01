@@ -1,0 +1,1 @@
+This is an IM(Instant Messaging) application. Can handle 1 million concurrency. 
